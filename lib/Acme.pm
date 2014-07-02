@@ -1,11 +1,12 @@
 package Acme;
 use Spiffy -Base;
-our $VERSION = '1.1111111';
+our $VERSION = '1.11111111';
 our @EXPORT = qw(acme);
 
 sub acme() { Acme->new(@_) }
 
-package UNIVERSAL;
+package
+UNIVERSAL;
 no warnings 'once';
 
 sub is_acme { $self->isa('Acme') }
