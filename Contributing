@@ -11,20 +11,20 @@ GitHub
 
 The code for this Project is hosted at GitHub. The repository is:
 
-  git@github.org/ingydotnet/acme-pm
+  https://github.com/ingydotnet/acme-pm
 
 You can get the code with this command:
 
-  git clone git@github.org/ingydotnet/acme-pm
+  git clone https://github.com/ingydotnet/acme-pm
 
 If you've found a bug or a missing feature that you would like the author to
 know about, report it here:
 
-  https://github.com/ingydotnet/acme-pm/issues/
+  https://github.com/ingydotnet/acme-pm/issues
 
 or fix it and submit a pull request here:
 
-  git@github.org/ingydotnet/acme-pm/pulls
+  https://github.com/ingydotnet/acme-pm/pulls
 
 See these links for help on interacting with GitHub:
 
@@ -46,7 +46,7 @@ IRC
 
 Acme has an IRC channel where you can find real people to help you:
 
-  irc.freenode.net#ingy
+  irc.freenode.net#pkg
 
 Join the channel. Join the team!
 

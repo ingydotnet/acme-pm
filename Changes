@@ -1,4 +1,10 @@
 ---
+version: 1.111111111
+date:    Sun Aug  3 21:10:23 PDT 2014
+changes:
+- Perfected Acme.pm
+- Fixed Meta and added Contributing file.
+---
 version: 1.11111111
 date:    Wed Jul  2 16:06:33 PDT 2014
 changes:

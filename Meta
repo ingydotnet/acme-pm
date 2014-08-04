@@ -1,12 +1,12 @@
 =meta: 0.0.1
 
 name: Acme
-version: 1.11111111
+version: 1.111111111
 abstract: The Base of Perfection
 homepage: https://metacpan.org/release/Acme
 
 license: perl
-copyright: 2004-2014. Ingy döt Net.
+copyright: 2004-2014
 author:
   name: Ingy döt Net
   email: ingy@cpan.org
@@ -20,8 +20,10 @@ requires:
   Spiffy: 0
 
 devel:
-  git: git@github.org/ingydotnet/acme-pm
-  irc: irc.freenode.net#ingy
-  bug: https://github.com/ingydotnet/acme-pm/issues/
+  git: https://github.com/ingydotnet/acme-pm
+  bug: https://github.com/ingydotnet/acme-pm/issues
+  irc: irc.freenode.net#pkg
 
-=travis: perl
+=travis:
+  type: perl
+  irc: irc.freenode.net#pkg
