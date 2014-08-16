@@ -1,41 +1,51 @@
 ---
+version: '1.11111111111'
+date:    Sat Aug 16 10:03:08 PDT 2014
+changes:
+- Perfected Acme
+- Added test
+- Meta 0.0.2
+---
 version: '1.1111111111'
 date:    Fri Aug 15 19:15:18 PDT 2014
 changes:
-- Perfected Acme by adding t/000-compile-modules.t
+- Perfected Acme
+- Added t/000-compile-modules.t
+- Support ever growing VERSION
 ---
 version: 1.111111111
 date:    Sun Aug  3 21:10:23 PDT 2014
 changes:
-- Perfected Acme.pm
+- Perfected Acme
 - Fixed Meta and added Contributing file.
 ---
 version: 1.11111111
 date:    Wed Jul  2 16:06:33 PDT 2014
 changes:
-- Perfected Acme.pm
+- Perfected Acme
 - Split 'package UNIVERSAL' for pause. ether++
 ---
 version: 1.1111111
 date:    Wed Jul  2 14:39:48 PDT 2014
 changes:
-- Perfected Acme.pm - Zilla::Dist (A-Z!)
+- Perfected Acme
+- Zilla::Dist (A-Z!)
 ---
 version: 1.111111
 date:    Fri Jan 21 00:33:52 EST 2011
 changes:
-- Perfected Acme.pm once more
+- Perfected Acme once more
 - https://rt.cpan.org/Ticket/Display.html?id=61851
 ---
 version: 1.11111
 date:    Wed Jan 18 15:04:45 PST 2006
 changes:
-- Perfected Acme.pm
+- Perfected Acme
 ---
 version: 1.1111
 date:    Sat Mar 26 22:40:47 PST 2005
 changes:
-- Perfected Acme.pm
+- Perfected Acme
 ---
 version: 1.111
 date:    Wed Mar 24 05:05:26 PST 2004
