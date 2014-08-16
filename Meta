@@ -11,10 +11,10 @@ copyright: 2004-2014
 author:
   name: Ingy döt Net
   email: ingy@cpan.org
+  homepage: http://ingy.net
   github: ingydotnet
   twitter: ingydotnet
   freenode: ingy
-  homepage: http://ingy.net
 
 devel:
   git: https://github.com/ingydotnet/acme-pm
