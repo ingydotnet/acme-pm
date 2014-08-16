@@ -1,4 +1,9 @@
 ---
+version: '1.1111111111'
+date:    Fri Aug 15 19:15:18 PDT 2014
+changes:
+- Perfected Acme by adding t/000-compile-modules.t
+---
 version: 1.111111111
 date:    Sun Aug  3 21:10:23 PDT 2014
 changes:

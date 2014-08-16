@@ -1,6 +1,6 @@
 package Acme;
 use Spiffy -Base;
-our $VERSION = '1.111111111';
+our $VERSION = '1.1111111111';
 our @EXPORT = qw(acme);
 
 sub acme() { Acme->new(@_) }
